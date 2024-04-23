@@ -1,0 +1,14 @@
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.AssemblyInfoInputs.cache
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.AssemblyInfo.cs
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.csproj.CoreCompileInputs.cache
+/Users/goncalo/RiderProjects/Computer/Computer/bin/Debug/net8.0/Computer
+/Users/goncalo/RiderProjects/Computer/Computer/bin/Debug/net8.0/Computer.deps.json
+/Users/goncalo/RiderProjects/Computer/Computer/bin/Debug/net8.0/Computer.runtimeconfig.json
+/Users/goncalo/RiderProjects/Computer/Computer/bin/Debug/net8.0/Computer.dll
+/Users/goncalo/RiderProjects/Computer/Computer/bin/Debug/net8.0/Computer.pdb
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.dll
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/refint/Computer.dll
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.pdb
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/Computer.genruntimeconfig.cache
+/Users/goncalo/RiderProjects/Computer/Computer/obj/Debug/net8.0/ref/Computer.dll
